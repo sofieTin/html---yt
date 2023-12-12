@@ -1,0 +1,37 @@
+HTML -> HyperText Markup Language 
+        ^^^^^^^^^
+CSS -> Cascading Style Sheets
+
+JAVASCRIPT -> Programming Language
+----------------------------------------------------------------
+
+HTTP -> Hypertext Transfer Protocol
+        ^^^^^^^^^
+----------------------------------------------------------------
+
+HTTP + TLS (Transport Layer Security)= HTTPS (security)
+
+----------------------------------------------------------------
+STRUCTURE HTML FILE
+
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <title>Mon site</title>
+    </head>
+    <body>
+        <h1>Allo!</h1>
+    </body>
+</html>
+----------------------------------------------------------------
+TEG HTML 
+
+html                      head             body
+div                       a: link          img
+h1: titre                 p                meta
+link: pour un file        style            script
+-----------------------------------------------------------------
+IMG 
+
+<img src="img.jpg" class="rounded-img" alt="My photo" />
+-----------------------------------------------------------------
